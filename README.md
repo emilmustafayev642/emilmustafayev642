@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm ✅_ТУТ_ТВОЙ_NICK_✅</h1>
+<h1 align="center">Hi there 👋, I'm emilmustafayev642</h1>
 <h3 align="center">Aspiring Full-Stack Developer</h3>
 
 ---
@@ -22,15 +22,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=✅_ТУТ_ТВОЙ_NICK_✅&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=✅_ТУТ_ТВОЙ_NICK_✅&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
