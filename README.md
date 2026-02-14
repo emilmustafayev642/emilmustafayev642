@@ -27,3 +27,6 @@
 
 ### 🔥 Keep Coding
 > *"Consistency beats talent when talent doesn't work hard."*
+
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=emilmustafayev642&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilmustafayev642&layout=compact&hide_border=true)
